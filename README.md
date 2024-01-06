@@ -1,4 +1,4 @@
-# My Personal delta configurations
+# My Personal Delta Configuration
 ### Introduction
 It's nothing fancy, just did a little bit of tweaking in order to customize it to my liking.
 
